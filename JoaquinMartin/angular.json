@@ -90,9 +90,12 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "C:/Users/jmm43/OneDrive/Escritorio/Argentina Programa/Cositas/Desafíos a subir del módulo/Modulo 2/bootstrap-5.0.1-dist/css/bootstrap.css"
             ],
-            "scripts": []
+            "scripts": [
+              "C:/Users/jmm43/OneDrive/Escritorio/Argentina Programa/Cositas/Desafíos a subir del módulo/Modulo 2/bootstrap-5.0.1-dist/js/bootstrap.js"
+            ]
           }
         }
       }
